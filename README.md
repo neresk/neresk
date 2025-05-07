@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neresk, i'm 14 years
+- 👋 Hi, I’m @neresk, i'm 15 years
 - 👀 I’m interested in learning HTML, CSS, JavaScript, Python, SQL...
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate with big companies in the future
